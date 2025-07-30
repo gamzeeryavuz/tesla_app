@@ -22,6 +22,28 @@ This is a learning project designed for developers who want to practice building
 	•	Xcode 15+
 
 
+ Tesla UI Clone – Built with SwiftUI
+
+This project is a clone of the Tesla mobile app interface, built using SwiftUI. It replicates the look and feel of the official Tesla app, providing a clean, modern, and interactive user interface.
+
+📱 Features
+• 🔋 Battery status indicator
+• 🚗 Vehicle controls (e.g., lights, horn, lock/unlock)
+• 🧭 Location map and basic navigation simulation
+• 🧪 Fully built with SwiftUI components
+
+🎯 Purpose
+This is a learning project designed for developers who want to practice building iOS applications using SwiftUI. It covers:
+• UI layout and design
+• State management
+• Navigation
+• Animations
+
+🛠️ Technologies Used
+• Swift 5
+• SwiftUI
+• Xcode 15+
+
 🖼️ Screenshots
 
 
